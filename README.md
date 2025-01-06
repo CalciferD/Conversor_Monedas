@@ -1,6 +1,6 @@
 # Conversor de Monedas
 
-Este es un proyecto de **Conversor de Monedas** que convierte entre varias monedas utilizando tasas de cambio en tiempo real a través de una API.
+Este es un proyecto de **Conversor de Monedas** de un curso de Alura que convierte entre varias monedas utilizando tasas de cambio en tiempo real a través de una API.
 
 ### Características
 - Convierte de Dólar a Peso Argentino.
@@ -62,18 +62,8 @@ Para ejecutar el proyecto:
         7. Salir
     - Elige la opción que desees y el programa realizará la conversión utilizando las tasas de cambio actuales.
 
-### Ejemplo de uso
-Cuando el usuario ejecuta el programa, verá un menú de opciones para elegir la conversión de moneda. Aquí tienes un ejemplo de cómo podría verse la interacción en la terminal:
 
-Bienvenido al conversor de monedas! Por favor, elija una opción:
 
-Dólar a Peso Argentino
-Peso Argentino a Dólar
-Dólar a Real Brasileño
-Real Brasileño a Dólar
-Dólar a Peso Colombiano
-Peso Colombiano a Dólar
-Salir
 
 
 
